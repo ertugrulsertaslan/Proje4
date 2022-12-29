@@ -1,0 +1,15 @@
+.menu {
+    text-align: center;
+}
+.menu h2 {
+    color:red;
+}
+.menu h3 {
+    color:rgb(201, 53, 201);
+}
+.menu h4 {
+    color:yellow;
+}
+ol_box li{
+    margin-left: 885px;
+}
